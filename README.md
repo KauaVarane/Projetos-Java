@@ -1,7 +1,7 @@
-# Projeto Java - FATEC
+# Projeto Java 
 
-Este é um projeto em **Java** desenvolvido durante o curso da **FATEC**.  
-O objetivo do projeto é praticar conceitos de programação, manipulação de matrizes, vetores e funções em Java.
+Este é um projeto em **Java**.  
+O objetivo do projeto é praticar conceitos de programação, manipulação de matrizes, vetores, funções,  instância de classes e Entrada e Saída (IO)
 
 ## Conteúdo do Projeto
 
@@ -10,7 +10,8 @@ O repositório contém:
 - Exercícios de lógica de programação
 - Manipulação de matrizes e vetores
 - Funções e procedimentos em Java
-- Interfaces simples utilizando `JOptionPane` para entrada e saída de dados
+- Instância de classes
+- Entrada e Saída de dados (IO)
 
 ## Pré-requisitos
 
