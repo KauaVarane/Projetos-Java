@@ -1,8 +1,7 @@
 # Projeto Java 
 
 Este é um projeto em **Java**.  
-O objetivo do projeto é praticar conceitos de programação, manipulação de matrizes, vetores, funções,  instância de classes e Entrada e Saída (IO)
-
+O objetivo do projeto é praticar conceitos de programação, manipulação de matrizes, vetores, funções.
 ## Conteúdo do Projeto
 
 O repositório contém:
@@ -10,8 +9,6 @@ O repositório contém:
 - Exercícios de lógica de programação
 - Manipulação de matrizes e vetores
 - Funções e procedimentos em Java
-- Instância de classes
-- Entrada e Saída de dados (IO)
 
 ## Pré-requisitos
 
